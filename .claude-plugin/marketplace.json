@@ -1212,7 +1212,12 @@
       "name": "stripe",
       "description": "Stripe development plugin for Claude",
       "category": "development",
-      "source": "./external_plugins/stripe",
+      "source": {
+        "source": "git-subdir",
+        "url": "stripe/ai",
+        "path": "providers/claude/plugin",
+        "ref": "main"
+      },
       "homepage": "https://github.com/stripe/ai/tree/main/providers/claude/plugin"
     },
     {
