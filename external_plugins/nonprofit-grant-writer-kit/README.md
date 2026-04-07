@@ -6,9 +6,19 @@ Generate foundation-ready grant documents for nonprofits. 5 production-ready gen
 
 ---
 
+## Installation
+
+Install from the official marketplace:
+
+```
+/plugin install nonprofit-grant-writer-kit@claude-plugins-official
+```
+
+Or browse for "Nonprofit Grant Writer Kit" in `/plugin > Discover` inside Claude Code.
+
 ## Quick Start
 
-1. **Install the plugin** in Claude Code
+1. **Install the plugin** (see above)
 2. **Gather your data** (organization basics, program details, funder info)
 3. **Use the generators** to create foundation-ready documents
 4. **Refine and submit** through your funder's portal

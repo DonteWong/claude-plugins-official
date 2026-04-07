@@ -13,24 +13,23 @@ A comprehensive Claude Code plugin that generates state-compliant HR documents f
 
 ## Installation
 
-### Via Claude Code
+### Install from the official marketplace
 
-1. Copy the plugin directory to your Claude plugins folder
-2. In Claude Code, navigate to Plugins
-3. Select "Install from folder" and choose this plugin directory
-4. Restart Claude Code
-5. Commands become available in your workspace
-
-### Manual Setup
-
-Clone or download the plugin files:
 ```
-/plugin/
+/plugin install smb-hr-compliance-pack@claude-plugins-official
+```
+
+Or browse for "SMB HR Compliance Pack" in `/plugin > Discover` inside Claude Code.
+
+### Plugin structure
+
+```
+smb-hr-compliance-pack/
   .claude-plugin/
     plugin.json
-  /skills/
+  skills/
     hr-document-generator.md
-  /commands/
+  commands/
     offer-letter.md
     handbook.md
     pip.md

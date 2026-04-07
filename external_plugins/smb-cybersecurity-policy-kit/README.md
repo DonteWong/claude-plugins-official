@@ -21,27 +21,24 @@ The SMB Cybersecurity Policy Kit is a comprehensive policy generation toolkit de
 ## Installation
 
 ### Requirements
-- Claude Code (latest version)
-- Access to Claude API
+- Claude Code (latest version) or Claude Cowork
+- Access to the official Claude plugin marketplace
 
-### Install as Claude Code Plugin
+### Install from the official marketplace
 
-1. **Download the plugin directory**
-   ```
-   bundle1-cybersecurity-policy-kit/plugin/
-   ```
+```
+/plugin install smb-cybersecurity-policy-kit@claude-plugins-official
+```
 
-2. **Install in Claude Code**
-   - Open Claude Code on your system
-   - Navigate to Plugins section
-   - Click "Add Plugin"
-   - Select the plugin directory
-   - The plugin will automatically load all skills, commands, and agents
+Or browse for "SMB Cybersecurity Policy Kit" in `/plugin > Discover` inside Claude Code.
 
-3. **Verify Installation**
-   - Check that 5 commands are available: `aup`, `irp`, `password-policy`, `data-classify`, `remote-work-policy`
-   - Check that `policy-generator` skill is loaded
-   - Check that `policy-auditor` agent is available
+### Verify installation
+
+After install, the following are available:
+
+- Commands: `/aup`, `/irp`, `/password-policy`, `/data-classify`, `/remote-work-policy`
+- Skill: `policy-generator`
+- Agent: `policy-auditor` (invoke via Task tool or natural language)
 
 ## Quick Start
 
@@ -328,7 +325,7 @@ Result: Password policy with M365/AD-specific MFA deployment, legacy system work
 
 ### Example 4: Audit Existing Policies
 ```
-Command: /policy-auditor
+Agent: policy-auditor (invoke via Task tool or natural language)
 
 Provide: Your existing policy document(s)
 

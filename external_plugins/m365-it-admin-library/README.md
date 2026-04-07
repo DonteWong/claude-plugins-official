@@ -21,28 +21,19 @@ Generated with 7 Claude Code commands. Build audit-ready M365 admin documentatio
 
 ## Installation
 
-### Option 1: Claude Code (Recommended)
+Install from the official marketplace:
 
-1. Open [Claude Code](https://claude.com) in your browser.
-2. Click **Plugins** or navigate to the plugins directory.
-3. Search for **"M365 IT Admin Prompt Library"** or visit:
-   ```
-   https://dontewong.gumroad.com/l/m365-it-admin-library
-   ```
-4. Click **Install** or **Load Plugin**.
-5. Verify installation by running:
-   ```
-   /intune-policy --help
-   ```
+```
+/plugin install m365-it-admin-library@claude-plugins-official
+```
 
-### Option 2: Manual Setup
+Or browse for "M365 IT Admin Library" in `/plugin > Discover` inside Claude Code or Cowork.
 
-1. Download the plugin files (this folder and subfolders).
-2. In Claude Code or your editor, load the skill file:
-   ```
-   /skills/m365-admin.md
-   ```
-3. Run any of the 7 commands (see below).
+After install, verify with any of the 7 commands, e.g.:
+
+```
+/intune-policy
+```
 
 ---
 
@@ -639,7 +630,7 @@ You may use, modify, and distribute these templates freely. Attribution apprecia
 For questions, issues, or feature requests:
 
 - **Gumroad**: https://dontewong.gumroad.com/l/m365-it-admin-library
-- **Email**: donte@example.com (hypothetical contact)
+- **Email**: dontew2012@gmail.com
 - **Community**: Share your use cases and improvements!
 
 ---
