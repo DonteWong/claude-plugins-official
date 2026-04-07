@@ -1,0 +1,12 @@
+{
+  "name": "nonprofit-grant-writer-kit",
+  "version": "1.0.0",
+  "description": "Generate foundation-ready grant documents for nonprofits. 5 production-ready generators for grant narratives, logic models, budget narratives, LOIs, and funder alignment assessments.",
+  "author": {
+    "name": "Donte Wong",
+    "email": "dontew2012@gmail.com"
+  },
+  "category": "nonprofit",
+  "tags": ["nonprofit", "grant", "fundraising", "foundation", "philanthropy"],
+  "homepage": "https://dontewong.gumroad.com/l/nonprofit-grant-writer-kit"
+}

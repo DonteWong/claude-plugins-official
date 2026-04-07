@@ -1,0 +1,12 @@
+{
+  "name": "m365-it-admin-library",
+  "version": "1.0.0",
+  "description": "Generate production-ready M365 admin documentation. 7 generators for Intune, Conditional Access, Defender, Purview, Power Automate, Security Posture, and IT Onboarding/Offboarding.",
+  "author": {
+    "name": "Donte Wong",
+    "email": "dontew2012@gmail.com"
+  },
+  "category": "it-admin",
+  "tags": ["microsoft365", "intune", "defender", "entra", "purview", "msp", "compliance"],
+  "homepage": "https://dontewong.gumroad.com/l/m365-it-admin-library"
+}
