@@ -8,5 +8,5 @@
   },
   "category": "it-admin",
   "tags": ["microsoft365", "intune", "defender", "entra", "purview", "msp", "compliance"],
-  "homepage": "https://dontew.gumroad.com/l/m365-it-admin-library"
+  "homepage": "https://github.com/DonteWong/claude-plugins-official/tree/main/external_plugins/m365-it-admin-library"
 }
