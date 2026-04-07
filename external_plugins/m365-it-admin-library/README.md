@@ -629,7 +629,7 @@ You may use, modify, and distribute these templates freely. Attribution apprecia
 
 For questions, issues, or feature requests:
 
-- **Gumroad**: https://dontewong.gumroad.com/l/m365-it-admin-library
+- **Gumroad**: https://dontew.gumroad.com/l/m365-it-admin-library
 - **Email**: dontew2012@gmail.com
 - **Community**: Share your use cases and improvements!
 

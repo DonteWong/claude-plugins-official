@@ -347,7 +347,7 @@ The plugin flags state-specific compliance areas and alerts you when to consult 
 
 For questions or issues:
 - Email: donte@dontewong.com
-- Gumroad: https://dontewong.gumroad.com/l/smb-hr-compliance-pack
+- Gumroad: https://dontew.gumroad.com/l/smb-hr-compliance-pack
 
 ---
 

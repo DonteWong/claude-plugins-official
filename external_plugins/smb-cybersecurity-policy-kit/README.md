@@ -379,7 +379,7 @@ This plugin provides the core policy generation engine. For the **complete kit**
 - Training presentation decks
 - Email templates for policy rollout
 
-**Visit:** [Gumroad - SMB Cybersecurity Policy Kit](https://dontewong.gumroad.com/l/smb-cybersecurity-policy-kit)
+**Visit:** [Gumroad - SMB Cybersecurity Policy Kit](https://dontew.gumroad.com/l/smb-cybersecurity-policy-kit)
 
 The paid bundle includes production-ready outputs, detailed implementation guides, and professional templates to accelerate your policy program.
 
@@ -410,4 +410,4 @@ MIT License - This plugin and associated materials are provided under the MIT Li
 
 **Version:** 1.0.0
 **Last Updated:** April 2026
-**Support:** [Gumroad](https://dontewong.gumroad.com/l/smb-cybersecurity-policy-kit)
+**Support:** [Gumroad](https://dontew.gumroad.com/l/smb-cybersecurity-policy-kit)

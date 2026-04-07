@@ -2,7 +2,7 @@
 
 Generate foundation-ready grant documents for nonprofits. 5 production-ready generators for grant narratives, logic models, budget narratives, letters of inquiry, and funder alignment assessments.
 
-**Built by [Donte Wong](https://dontewong.gumroad.com)** — practitioner, not prompt engineer.
+**Built by [Donte Wong](https://dontew.gumroad.com)** — practitioner, not prompt engineer.
 
 ---
 
@@ -407,7 +407,7 @@ Each generator needs data organized into three categories: organization, program
 
 "I've seen hundreds of grant applications. I know what program officers actually read first. I know what makes them stop reading. And I know what gets funded. This kit is built from that experience—to give you the same advantage."
 
-[Learn more: dontewong.gumroad.com](https://dontewong.gumroad.com)
+[Learn more: dontew.gumroad.com](https://dontew.gumroad.com)
 
 ---
 
