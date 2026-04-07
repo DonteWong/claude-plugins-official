@@ -82,6 +82,7 @@ The policy-generator skill will be invoked with the following instructions:
 - **Password Standards**: Complexity requirements, length minimums, character diversity rules
 - **Rotation Rules**: Expiration periods (or rationale for passwordless approach), prohibited password reuse
 - **MFA Mandate**: Which systems require MFA, which user groups, phased rollout plan
+- Include platform-specific MFA implementation guidance based on primary_systems: Microsoft 365 → Entra ID Conditional Access policies and Authenticator app; AWS → IAM Identity Center with hardware MFA for root; Salesforce → Connected App policies and Salesforce Authenticator. Do not leave MFA guidance generic.
 - **Tool-Specific Guidance**: Implementation steps for [PRIMARY_SYSTEMS]
 - **Password Manager**: Recommendation and organizational policies for shared credential storage
 - **Recovery Procedures**: Account lockout, password reset, emergency access protocols

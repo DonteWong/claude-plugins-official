@@ -62,6 +62,7 @@ The policy-generator skill will be invoked with the following instructions:
 - **Severity Tiers**: Define Critical, High, Medium, Low with specific criteria
 - **Escalation Matrix**: Clear role-based escalation showing who decides what at each level
 - **Response Procedures**: Step-by-step incident handling (detection, triage, containment, investigation, recovery)
+- Include tool-specific detection callouts based on primary_systems: Microsoft 365 → Sentinel/Defender XDR incident queues; AWS → CloudTrail anomaly detection + Security Hub findings; Salesforce → Shield Event Monitoring and Real-Time Event Log. Do not leave detection procedures generic.
 - **Investigation Protocols**: Evidence preservation, forensics procedures, chain of custody
 - **Communication Plans**: Internal (employee notification), external (customers/partners), regulatory (law enforcement, regulators)
 - **Contact Directory**: Key personnel, external contacts, escalation procedures

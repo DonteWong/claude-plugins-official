@@ -42,6 +42,8 @@ The policy-generator skill will be invoked with the following instructions:
 - Specific examples of prohibited activities (e.g., illegal activity, harassment, competitive intelligence gathering)
 - Social media guidance for employees representing the company online
 - Consequences framework (coaching, warnings, suspension, termination)
+- When primary_systems includes Microsoft 365: explicitly reference Sentinel/Defender XDR correlation rules and DLP alert review procedures in the compliance monitoring section. When primary_systems includes AWS: reference CloudTrail and Security Hub. When primary_systems includes Salesforce: reference Shield Event Monitoring. Make these tool-specific callouts concrete, not generic.
+- In the social media section (typically §4.x), add a prominent inline callout: "[LEGAL REVIEW REQUIRED — This section may implicate NLRA §7 protected concerted activity. Have employment counsel review before distribution.]"
 - Acknowledgment/sign-off requirement for all employees
 - Implementation checklist with distribution, training, and monitoring steps
 - Compliance verification procedures
@@ -53,7 +55,7 @@ You will receive:
 1. **Acceptable Use Policy Document** - Full policy ready for customization and legal review
 2. **NIST CSF Alignment Summary** - Mapping of policy sections to framework categories
 3. **Implementation Checklist** - Step-by-step deployment plan
-4. **Compliance Monitoring Framework** - Audit procedures and metrics
+4. **Compliance Monitoring Framework** — Tool-specific audit procedures tied to the organization's actual systems (e.g., Sentinel/Defender XDR, CloudTrail, Shield Event Monitoring), with KPI baselines to be established at Day 0 discovery, not left as directional trends
 5. **Legal Disclaimer** - Required disclaimer for your organization
 
 ## Next Steps
