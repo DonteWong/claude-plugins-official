@@ -1,0 +1,12 @@
+{
+  "name": "smb-hr-compliance-pack",
+  "version": "1.0.0",
+  "description": "Generate state-compliant HR documents for small and mid-size businesses. 5 production-ready generators for offer letters, employee handbooks, PIPs, termination packages, and onboarding checklists.",
+  "author": {
+    "name": "Donte Wong",
+    "email": "dontew2012@gmail.com"
+  },
+  "category": "compliance",
+  "tags": ["hr", "compliance", "employment", "smb", "onboarding", "handbook"],
+  "homepage": "https://dontewong.gumroad.com/l/smb-hr-compliance-pack"
+}
